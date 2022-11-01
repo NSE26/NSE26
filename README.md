@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Elavarasan N
-- 👀 I’m interested in Full Stack and Java Developement.
+- 👀 I’m interested in Selenium Automation and Java Developement.
 - 🌱 I’m currently learning Full Stack Developement (HTML,CSS,JavaScript)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me elavarasan@3108@gmail.com, 8807368346
 
 <!---
